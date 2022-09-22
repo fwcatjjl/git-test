@@ -17,6 +17,6 @@ public class GItTest {
         System.out.println("gitee test2!");
         System.out.println(".............");
         System.out.println("hello git");
-        System.out.println("0000000asdasda");
+        System.out.println("0000000asdasda master");
     }
 }
