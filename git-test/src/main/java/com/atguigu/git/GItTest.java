@@ -20,5 +20,7 @@ public class GItTest {
         System.out.println("0000000asdasda master");
         System.out.println("0000000hot fix 2");
         System.out.println("asdasdasdasd");
+        System.out.println("hello git");
+        System.out.println("hello git");
     }
 }
