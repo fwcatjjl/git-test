@@ -22,5 +22,9 @@ public class GItTest {
         System.out.println("asdasdasdasd");
         System.out.println("hello git");
         System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
+        System.out.println("hello git");
     }
 }
